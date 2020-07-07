@@ -1,8 +1,8 @@
-## raffle-admin
+## react-redux-hooks-typescript-material
 
 ##### Requirement / Instructions :
 
-This is about designing and implementing admin that is related to raffle project.
+Sample boiler-plate of react
 
 
 ## Technology Used
